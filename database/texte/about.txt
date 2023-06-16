@@ -1,13 +1,16 @@
-Open source is an excellent foundation for the Mine4Blood project, a Minecraft community server, for several reasons. By utilizing open-source principles and collaborating through GitHub, you have the opportunity to build a diverse and engaged community actively participating in the project. Here are some benefits that open source provides for your project:
+Greetings! I am Elia, the project lead of Mine4Blood, a Minecraft server project that serves as a dedicated space for the HandOfBlood community. Let me introduce myself and shed some light on this self-organized initiative.
 
- ⠀  ⠀ 1. Transparency: Open source means that the source code of your project is accessible to everyone. Anyone interested can review the code, identify bugs, suggest improvements, and contribute to their resolution. This fosters a transparent development environment, increasing trust and credibility in the project.
+Mine4Blood is an independent endeavor of the HandOfBlood community, unaffiliated with any companies, brands, or products associated with HandOfBlood or Eintracht Spandau. Our mission is to create a vibrant and inclusive Minecraft server that brings together members of the HandOfBlood community, while also extending a warm welcome to individuals beyond our community.
 
- ⠀  ⠀ 2. Collaboration: By leveraging GitHub, verified community members can actively contribute to the project through pull requests. This enables effective collaboration, as code changes can be reviewed, discussed, and incorporated. The combination of an open-source license and the GitHub platform creates an optimal environment for teamwork and collective development.
+At Mine4Blood, we take pride in our team's programming prowess. Every aspect of this Minecraft server project is programmed and developed entirely by our dedicated team. This hands-on approach ensures that we can craft a unique and tailored experience for our community members.
 
- ⠀  ⠀ 3. Innovation: Involving a broad community provides access to diverse perspectives, experiences, and expertise. This increases the likelihood of innovative ideas being introduced to advance the project. The diversity of contributions contributes to the continuous improvement of the project and ensures ongoing innovation.
+We understand the value of community, and our goal is to foster an environment that encourages camaraderie, creativity, and collaboration. Whether you're a die-hard HandOfBlood fan or someone new to our community, we believe in providing a space where everyone can come together and forge new connections while exploring the vast possibilities of Minecraft.
 
- ⠀  ⠀ 4. Bug Fixing and Quality Assurance: With a large number of developers reviewing and testing the source code, bugs and issues are detected and resolved more rapidly. The community can report issues, provide patches, and contribute to general quality assurance. This enhances the stability and reliability of the server.
+While our roots lie in the HandOfBlood community, Mine4Blood is open to all individuals who share our passion for Minecraft and a desire to be part of a welcoming and engaging community. We embrace diversity and look forward to the contributions and perspectives of every member who joins us on this exciting journey.
 
- ⠀  ⠀ 5. Scalability: By embracing the open-source philosophy, you can scale the project in the long term. With more developers participating in the project, it becomes possible to expand the functionality, add new features, and adapt the project to the community's needs.
+If you have any questions, ideas, or suggestions, please don't hesitate to reach out. We are thrilled to have you as part of the Mine4Blood project and look forward to embarking on this Minecraft adventure together!
 
-In summary, open source offers numerous benefits, such as transparency, collaboration, innovation, bug fixing, and scalability, for the Mine4Blood project. Through collaboration via GitHub, verified community members can actively contribute to development and drive the project forward.
+Yours sincerely,
+
+Elia
+Project Lead, Mine4Blood
