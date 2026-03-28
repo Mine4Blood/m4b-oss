@@ -1,1 +1,1 @@
-Text hier eintagen: About Text - oss.mine4blood.de/about
+Mine4Blood is a community-driven project focused on building open source tools and resources. Our team is made up of passionate developers and contributors who believe that software should be transparent, accessible, and built together. We develop in the open so anyone can see, review, and contribute to our work. Whether you are a developer, designer, or just curious — there are many ways to get involved. Visit our projects, join the forum, or browse our documentation to get started.
